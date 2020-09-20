@@ -1,0 +1,1 @@
+java -Xmx256M -cp ".;lib/jigl.jar;lib/joone-engine.jar;lib/mysql-connector-java-3.1.7-bin.jar;lib/jai_core.jar;lib/jai_codec.jar;lib/twain/morena.jar;lib/twain/morena_license.jar" epublisher.EPublisherUI

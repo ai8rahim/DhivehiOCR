@@ -1,0 +1,17 @@
+
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+*.jcd
+*.jcp
+*.jcu
+*.jcw
+
+*.bak
+
+.DS_Store
